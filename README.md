@@ -1,4 +1,4 @@
-
+print ("Hello, world!")
 
 <!---
 hiddeninfall/hiddeninfall is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
